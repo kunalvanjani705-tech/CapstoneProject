@@ -3,7 +3,7 @@ BANK ACCOUNTS REPORT
 Generated on: 2026-01-07 17:34:58
 ==================================================
 
-Account Holder: Poonam
+Account Holder: Kunal
 Account Number: 11102669
 Account Type: savings
 Balance: $1000.00
