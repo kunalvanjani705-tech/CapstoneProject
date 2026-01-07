@@ -1,6 +1,25 @@
 BANK ACCOUNTS REPORT
 ==================================================
-Generated on: 2026-01-07 17:30:02
+Generated on: 2026-01-07 17:34:58
+==================================================
+
+Account Holder: Poonam
+Account Number: 11102669
+Account Type: savings
+Balance: $1000.00
+Created: 2026-01-07 17:34:29
+
+Transaction History:
+--------------------------------------------------
+No transactions yet.
+
+Account Statistics:
+--------------------------------------------------
+Total Deposits: $0.00
+Total Withdrawals: $0.00
+Average Transaction: $0.00
+Transaction Count: 0
+
 ==================================================
 
 Thank you for trusting our bank!
